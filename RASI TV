@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:-1,RASI HOLLYWOOD
+https://s1.rasinetworks.in/rasinetworks/rasihollywood/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RASI TAMIL
+https://s1.rasinetworks.in/rasinetworks/rasitamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RASI TV HD
+https://rasinetworks.in/rasinetworks/rasitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RASI MOVIES
+https://rasinetworks.in/rasinetworks/rasimovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RASI MUSIC
+https://s2.rasinetworks.in/rasinetworks/rasimusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RASI COMEDY
+https://s2.rasinetworks.in/rasinetworks/rasicomedy/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RASI CLASSIC
+https://s2.rasinetworks.in/rasinetworks/rasiclassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RASI LIFE STYLE
+https://s1.rasinetworks.in/rasinetworks/lifestyle/index.m3u8
